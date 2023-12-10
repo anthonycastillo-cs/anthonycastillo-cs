@@ -4,5 +4,5 @@ I've been programming for 5 years with experience in C++, Python, HTML, and SQL.
 
 - 🌎 Houston, TX
 - ✉️ Contact at 508ajc@gmail.com
-- 🤓 I'm currently working on a mobile game and Quizlet Clone with React
-- 🕸️ Check out my Personal Website anthonythepleb.github.io
+- 🤓 I'm currently working on a mobile game and Quizlet Clone with React.
+- 🕸️ Check out my [Personal Website](https://anthonythepleb.github.io/).
