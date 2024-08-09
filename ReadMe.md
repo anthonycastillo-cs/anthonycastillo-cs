@@ -4,4 +4,4 @@ I've been programming for 5 years with experience in C++, Python, HTML, and SQL.
 
 - 🌎 Houston, TX
 - ✉️ Contact at anthonycastillo.uh@gmail.com
-- 🕸️ Check out my [Personal Website](https://anthonythepleb.github.io/).
+- 🕸️ Check out my [Personal Website](https://anthonythepleb.github.io/)
